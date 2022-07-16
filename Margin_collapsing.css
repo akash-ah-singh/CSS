@@ -1,0 +1,14 @@
+.box1,.box2{
+    border: 5px outset cadetblue;
+    padding: 10px;
+}
+
+
+.box1{
+    margin-bottom:40px;
+}
+
+
+.box2{
+    margin-top:100px;
+}

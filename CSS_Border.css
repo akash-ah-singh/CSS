@@ -1,0 +1,32 @@
+/* img{
+    border-width: 5xp;
+    border-style: solid;
+    border-color: red;
+} */
+
+
+/* Shortcut */
+
+img{
+    border: 5px solid red;
+}
+
+
+h1{
+    border: 5px groove blueviolet;
+}
+
+
+
+h2{
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: cadetblue;
+    border-style: inset;
+}
+
+
+li{
+    border: 5px outset cornflowerblue;
+   
+}

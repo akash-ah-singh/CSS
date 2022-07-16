@@ -1,0 +1,33 @@
+.cool::before{
+    content: "Hello ";
+    display: block;
+    color: red;
+    border: 2px inset cadetblue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+
+}
+
+
+
+.cool::after{
+    content: "Hello ";
+    display: block;
+    color: red;
+    border: 2px inset cadetblue;
+    margin-top: 10px;
+    padding: 10px;
+
+}
+
+
+.head::before{
+    color: brown;
+    content: "Hello ";
+    /* display: block; */
+}
+
+
+/* we can't use ::after and ::before with replaced element's i.e -----> img , br, input .....etc  */
+

@@ -1,0 +1,11 @@
+input:focus{
+    padding: 10px;
+    /* outline: 0px;   -------------> to remove existing border  */
+    /* border: 5px solid green;   ---------> to add extra border  */
+
+}
+
+
+input:required{
+    color:red;
+}

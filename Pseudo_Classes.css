@@ -1,0 +1,40 @@
+/* link ,visited ,hover , active  ---------> should be in this manner  */
+
+a:link{
+    color:orange;
+}
+
+a:visited{
+    color:green;
+}
+
+a:hover{
+    color:red;
+}
+
+a:active{
+    color: black;
+}
+
+
+
+
+
+
+
+
+p{
+    background-color: burlywood;
+    
+}
+
+
+p:hover{
+    color: green;
+
+}
+
+p:active{
+    color: red;
+}
+

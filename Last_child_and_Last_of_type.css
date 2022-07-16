@@ -1,0 +1,11 @@
+
+/* p:last-child{
+    color:chocolate;
+} */
+
+
+
+
+p:last-of-type{
+    color:green;
+}

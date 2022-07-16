@@ -1,0 +1,76 @@
+/* input[type="text"]{
+    color:red;
+    background-color: black;
+    border-style: groove; 
+} */
+
+
+
+/* input[type="password"]{
+    color:red;
+    background-color: black;
+    border-style: groove;
+} */
+
+
+
+
+/* input[type $="t"]{
+    color: red;
+    background-color: black;
+} */
+
+
+
+
+
+/* input[type *="a"]{
+    color: red;
+    background-color: black;
+} */
+
+
+
+
+/* input[type ^="t"]{
+    color: red;
+    background-color: black;
+} */
+
+
+
+
+/* a[href ="https://www.google.co.in"]{
+    color: red;
+    background-color: black;
+}
+ */
+
+
+
+/* Shorter Way  */
+
+
+
+/* 
+a[href *="google"]{
+    color: red;
+    background-color: black;
+} */
+
+
+/* a[href ^="https"]{
+    color: red;
+    background-color: black;
+} */
+
+
+/* a[href $=".com"]{
+    color: red;
+    background-color: black;
+} */
+
+
+
+
+

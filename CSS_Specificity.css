@@ -1,0 +1,69 @@
+/* Id selector with '!importent' > In-line style attribute > Id Selector > class selector > element or tag selector */
+
+
+/* h1{
+    color:red;
+}
+
+
+.h1class{
+    color:brown;
+}
+
+
+#h1id{
+    color:blueviolet;
+} */
+
+
+/* #h1id{
+    color:gold !important;
+} */
+
+
+
+/* .p1class{
+    color: red;
+}
+
+.p2class{
+    color:blue;
+} */
+
+
+
+/* 
+.p2class{
+    color: blue;
+}
+
+.p1class{
+    color:red;
+} */
+
+
+
+/* h2.p2class{
+    color:yellow;
+} */
+
+
+
+
+
+
+/* div#container ul.my-song li{
+    color: red;
+    background-color: burlywood;
+}
+
+.fav{
+    color: burlywood;
+    background-color: red;
+}
+
+div#container ul.my-song li.fav{
+    color:yellowgreen;
+    background-color: chocolate;
+} */
+

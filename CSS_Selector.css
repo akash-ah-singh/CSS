@@ -1,0 +1,54 @@
+/* body{
+    color:black;
+    background-color: rgb(185, 142, 86);
+} */
+
+
+
+
+/* *{
+    color: black;
+    background-color: red;;
+} */
+
+
+/* 
+p{
+    color: blueviolet;
+} */
+
+
+
+/* header p{
+    color: brown;
+} */
+
+/* 
+li a{
+    color: coral;
+} */
+
+
+/* 
+section.my-article h2{
+    color: darkmagenta;
+} */
+
+
+
+/* section.my-article>h2{
+    color: green;
+} */
+
+
+
+/* h2+p{
+    color: yellow;
+} */
+
+
+
+section.my-article h2+p{
+    color:indianred;
+}
+

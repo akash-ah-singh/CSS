@@ -1,0 +1,49 @@
+/* :not(p){
+    color: brown;
+} */
+
+
+
+/* body :not(p){
+    color: brown;
+}
+
+
+div:empty{
+    background-color: black;
+    border: 2px inset red;
+    height: 100px;
+    width: 100px;
+} */
+
+
+
+
+
+
+
+/* :root{
+    color:brown;
+    background-color: burlywood;
+} */
+
+
+        /* OR  */
+
+
+/* html{
+    color: white;
+    background: red;
+} */
+
+
+       /* OR  */
+
+
+
+body{
+    color:black;
+    background-color: cadetblue;
+}
+
+

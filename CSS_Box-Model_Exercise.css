@@ -1,0 +1,23 @@
+h1{
+    background-color: grey;
+    text-align: center;
+    padding: 10px 0px;
+    
+}
+
+section.a1,section.a2{
+    border: 5px solid grey;
+    padding: 10px;
+    margin:0px auto;
+}
+
+section h3{
+    text-transform: uppercase;
+}
+
+
+div{
+    width:800px;
+    margin:0px auto;
+
+}

@@ -1,0 +1,11 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+a{
+    border:3px inset cadetblue;
+    margin:0px 50px;
+    padding:0px 50px;
+
+}
