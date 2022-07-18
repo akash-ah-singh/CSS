@@ -1,0 +1,22 @@
+html{
+    font-size: 10px;
+    /* 10px OR 62.5% is same ----->(100/16*10)=62.5%......here 16 is by default font-size of characters */
+    /* 16px = 100% */
+    font-size: 62.5%;
+}
+
+
+.para1{
+    /*----->here 2rem = 20px ....because by-default size is changed to 16px to 10px in above Html  */
+    font-size: 2rem;
+    border: .5rem inset cadetblue;
+    padding: .5rem;
+    margin: .2rem;
+}
+
+p{
+    font-size: 2rem;
+    border: .5rem inset cadetblue;
+    padding: .5rem;
+    margin: .2rem;
+}
