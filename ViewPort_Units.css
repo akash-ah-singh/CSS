@@ -1,0 +1,10 @@
+h1{
+    width: 50vw;
+    border: 3px inset cadetblue;
+}
+
+
+.box{
+    height:100vh;
+    background-color: brown;
+}
