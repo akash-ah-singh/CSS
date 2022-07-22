@@ -1,0 +1,24 @@
+
+.box1{
+   
+    border: 7px inset cadetblue;
+}
+
+.box1 h1{
+    border: 5px inset rebeccapurple;
+    /* position: fixed; */
+    /* width: 100%; */
+}
+
+
+.box1 p{
+    border: 5px inset red;
+    background-color: lavenderblush;
+}
+
+
+.box2{
+    background-color: burlywood;
+    padding: 5px;
+    
+}
