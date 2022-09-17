@@ -10,7 +10,6 @@
 }
 
 
-
 .cool::after{
     content: "Hello ";
     display: block;
